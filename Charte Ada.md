@@ -33,13 +33,13 @@ Ensuite, nous étudierons avec la personne ayant eu un mauvais comportement :
 * Dans le cas d’un comportement inconscient, sans objectif réel de nuire, en accord avec la victime, nous laisserons la personne autrice faire ce qu’elle pourra pour réparer ses torts, et changer de comportement ;
 * Dans le cas d’un comportement habituel, choisi, conscient, la personne sera exclue d’Ada Tech School et des évènements s’y déroulant.
 
-Il est possible que les comportements indiqués ci-dessous aient lieu y l’extérieur de l’école, mais entre deux participantes à l’école. Dans ce cas, les règles s’appliquent de la même manière. Nous ne voulons pas qu’une personne se sente mal à l’aise à l’idée d’en croiser une autre à Ada.
+Il est possible que les comportements indiqués ci-dessous aient lieu à l’extérieur de l’école, mais entre deux participantes à l’école. Dans ce cas, les règles s’appliquent de la même manière. Nous ne voulons pas qu’une personne se sente mal à l’aise à l’idée d’en croiser une autre à Ada.
 
 ## Vous
 
 ### Vous êtres la bonne personne
 
-Quel que soit votre niveau d’expérience, vous êtes admises à parce que nous pensons que vous êtes une personne qui aura une influence positive sur la communauté, et nous pensons qu’être à Ada Tech School vous aidera à vous améliorer considérablement dans le monde de la programmation. C’est très important alors nous allons le répéter : Tout le monde est ici parce que nous voulons qu’il soit ici. Alors si vous lisez ceci, ne vous inquiétez pas de ce que d’autre personnes dans votre groupe savent. Vous êtes ici parce que nous voulons que vous soyez ici et que vous croyiez en vous.
+Quel que soit votre niveau d’expérience, vous êtes admises à Ada Tech School parce que nous pensons que vous êtes une personne qui aura une influence positive sur la communauté, et nous pensons qu’être à Ada Tech School vous aidera à vous améliorer considérablement dans le monde de la programmation. C’est très important alors nous allons le répéter : Tout le monde est ici parce que nous voulons qu’il soit ici. Alors si vous lisez ceci, ne vous inquiétez pas de ce que d’autres personnes dans votre groupe pensent ou savent. Vous êtes ici parce que nous voulons que vous soyez ici et que vous croyiez en vous.
 
 ### Choix et envies
 
@@ -48,7 +48,7 @@ Nous voulons que chaque personne présente à Ada Tech School le soit parce qu�
 * Vous devriez être ici parce que vous voulez être ici, et non parce que quelqu’un d’autre veut que vous soyez ici. Peu importe si cette autre personne est votre parent, votre patron ou le président. La vie est trop courte pour être ici pour tout autre raison.
 * Vous devriez être ici principalement parce que vous êtes une personne qui souhaite devenir meilleure en programmation et passer la majorité de votre temps ici à crée, programmer, apprendre, concevoir et à faire des choses directement liés à la création logicielle.
 
-### Hontes, angoisses ou peur
+### Honte, angoisse ou peur
 
 Ces sentiments n’aident pas à l’apprentissage, nous essayons donc de les éliminer. Dans la plupart des pays du monde, mais surtout à l’école et aut travail, les gens ont peur de paraître stupides, honte de ne pas savoir, angoissent d’être jugés négativement… Cela nous empêche souvent de poser des questions importantes comme « Comment ça marche ? » ou même simplement « Pourquoi ? ». Pire, ça nous empêche de dire : « Je ne comprends pas ». Cela signifie que bon nombre d’entre nous se débrouillent avec une mauvaise compréhension des concepts de base. C’est particulièrement problématique avec la programmation, parce que ces malentendus s’aggravent et, avec le temps, deviennent de plus en plus difficiles et plus embarrassants à admettre et à aborder.
 
