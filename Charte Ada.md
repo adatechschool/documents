@@ -116,7 +116,7 @@ Il ne faut pas avoir l’air surpris quand les gens disent qu’ils ne savent pa
 
 ### Interventions non-sollicitées
 
-Cela se produit lorsque quelqu’un dit quelque chose qui est presque \– mais pas tout à fait \– correct, et que vous dites, « Eh bien, en fait… », et donnez ensuite une petite correction. Ceci est particulièrement gênant lorsque la correction n’a pas d’incidence sur la conversation réelle. Cela ne veut pas dire qu’à Ada nous ne cherchons pas à découvrir la vérité ou que nous ne nous soucions pas d’être précis. Presque toutes les bonnes pratiques de notre expérience ont trait à la démagogie et non à la recherche de la vérité.
+Cela se produit lorsque quelqu’un dit quelque chose qui est presque – mais pas tout à fait – correct, et que vous dites, « Eh bien, en fait… », et donnez ensuite une petite correction. Ceci est particulièrement gênant lorsque la correction n’a pas d’incidence sur la conversation réelle. Cela ne veut pas dire qu’à Ada nous ne cherchons pas à découvrir la vérité ou que nous ne nous soucions pas d’être précis. Presque toutes les bonnes pratiques de notre expérience ont trait à la démagogie et non à la recherche de la vérité.
 
 Si vous entendez des gens qui travaillent sur un problème, vous ne devriez pas donner des conseils par intermittence dans la pièce. Il peut être impoli et dérangeant de participer à moitié à une conversation. Cela ne veut pas dire que vous ne devriez pas aider, donner des conseils ou participer à des conversations. Au contraire, nous encourageons toutes ces choses. Cela signifie plutôt que lorsque vous voulez aider les autres ou travailler avec eux, vous devriez vous engager pleinement et non pas seulement vous y mettre de façon sporadique.
 
@@ -203,7 +203,7 @@ Avec ce qui précède à l’esprit, s’il vous plaît :
 
 * Soyez une personne prévenante envers les autres.
 
-* Ne faites pas de choses qui génèreraient des bruits gênants \– _e.g :_ conversations bruyantes, claquer les portes, musique sans écouteurs, _etc_.
+* Ne faites pas de choses qui génèreraient des bruits gênants – _e.g :_ conversations bruyantes, claquer les portes, musique sans écouteurs, _etc_.
 
 ## Construction de la charte
 
@@ -216,5 +216,5 @@ Nom
 Prénom
 ---
 
-“J’ai lu la charte” \– Signature :
+“J’ai lu la charte” – Signature :
 ---
