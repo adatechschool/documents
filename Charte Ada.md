@@ -1,10 +1,13 @@
+<div style="text-align: center;">
 ![](https://images.squarespace-cdn.com/content/5bc8518ba9ab95140110ad80/1559115320041-W09GSTXROJ16A0DEASRZ/Plan+de+travail+1.png?content-type=image%2Fpng)
 
 # CHARTE ADA TECH SCHOOL
+</div>
 
+<div style="text-align: justify;">
 ## À propos de ce document
 
-Cette charte est une sorte de manuel de règlement intérieur mélangé à un code de conduite. Elle est très largement inspiré du manuel de l’utilisateur du [Recurse Centre](https://www.recurse.com/manualM). Nous l’avons adapté pour correspondre un peu mieux à notre école et ce que nous souhaitons y voir.
+Cette charte est une sorte de manuel de règlement intérieur mélangé à un code de conduite. Elle est très largement inspiré du manuel de l’utilisateur du [Recurse Centre](https://www.recurse.com/manual "Merci au Recurse Center d’avoir partagé cette précieuse ressource."). Nous l’avons adapté pour correspondre un peu mieux à notre école et ce que nous souhaitons y voir.
 
 L’objectif est de constituer un document permettant de comprendre comment fonctionne l’école Ada Tech School, et de pouvoir profiter au mieux de votre expérience avec elle.
 
@@ -210,11 +213,8 @@ Avec ce qui précède à l’esprit, s’il vous plaît :
 Cette charte a été écrite avant votre arrivée. Il y a sans doute des choses que nous pouvons améliorer. Cette charte est construite collectivement, aussi, avec vous, nous pourrons la faire évoluer. N’hésitez pas à signaler des points de discussions, de changements, de manque, pour que nous puissions progresser avec vous.
 
 
-Nom
----
+### __Nom :__
 
-Prénom
----
+### __Prénom :__
 
-“J’ai lu la charte” – Signature :
----
+### __*“J’ai lu la charte”* – Signature :__
