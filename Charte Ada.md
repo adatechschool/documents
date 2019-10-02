@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+
 ![](https://images.squarespace-cdn.com/content/5bc8518ba9ab95140110ad80/1559115320041-W09GSTXROJ16A0DEASRZ/Plan+de+travail+1.png?content-type=image%2Fpng)
 
 # CHARTE ADA TECH SCHOOL
